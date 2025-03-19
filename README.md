@@ -16,7 +16,7 @@
 
 - **Shookk (Junior iOS)** [Link](https://iphone.apkpure.com/app/omg-celeb-look-alike/com.supergene.omgcamera) [2020]
 
-- **OMGCamera (Lead Android)** [Link](https://download.cnet.com/omg-celeb-look-alike/3000-12511_4-78330951.htmlhttps://download.cnet.com/omg-celeb-look-alike/3000-12511_4-78330951.html) [2019]
+- **OMGCamera (Lead Android)** [Link](https://download.cnet.com/omg-celeb-look-alike/3000-12511_4-78330951.html) [2019]
 
 - **Mix Up (JavaScript)** [Link](https://www.facebook.com/share/v/18iFbDttB6/?mibextid=wwXIfr) [2018]
 
