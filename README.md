@@ -14,7 +14,7 @@
 
 - **Doowit (Mid/Senior iOS)** [Link](https://appadvice.com/app/doowit-share-your-interests/1512102138) [2020 - 2023]
 
-- **Shookk (Junior iOS)** [Link](https://iphone.apkpure.com/app/omg-celeb-look-alike/com.supergene.omgcamera) [2020]
+- **#OMG (Junior iOS)** [Link](https://appadvice.com/app/omg-celeb-look-alike/1475733372.amp) [2019]
 
 - **OMGCamera (Lead Android)** [Link](https://download.cnet.com/omg-celeb-look-alike/3000-12511_4-78330951.html) [2019]
 
