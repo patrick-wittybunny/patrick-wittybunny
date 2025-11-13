@@ -2,7 +2,7 @@
 
 ## Available:
 
-**AOi V(Lead/Senior iOS)** [Link](https://aoi-v.com/)  [2025 - Present]
+**AOi V (Lead/Senior iOS)** [Link](https://aoi-v.com/)  [2025 - Present]
 
 *Swift, UIKit, RxSwift, Alamofire, Kingfisher, Admob, Firebase, Line_iOS, Notifications, Tuist*
 
